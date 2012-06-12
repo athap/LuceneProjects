@@ -1,0 +1,1 @@
+This project demonstrate how lucene creates documents from the raw content and indexes them. After indexing the data, it can be easily searced as shown
